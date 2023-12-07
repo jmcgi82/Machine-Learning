@@ -1,0 +1,900 @@
+10 Cane Rums Rum 31 2.82 0.55 40.00 0.00
+1800 Margaritas and Cocktails Flavored Alcoholic Beverage 24 3.62 0.69 9.95 0.00
+1800 Tequilas Tequila 30 1.96 0.47 40.00 0.00
+3 Vodka Vodka 12 2.20 0.37 40.00 0.00
+337 Wines Wine 6 4.15 0.37 13.00 0.00
+360 Vodkas Vodka 23 1.91 0.51 39.78 1.04
+3AM Vodka Alcoholic Energy Drink 6 2.07 0.38 40.00 0.00
+42 Below Vodkas Vodka 25 1.82 0.35 42.00 0.00
+901 Tequilas Tequila 12 4.23 0.64 40.00 0.00
+99 Liqueurs Cordials/Liqueurs 30 1.37 0.17 49.51 0.07
+99 Rums Rum 2 0.77 0.15 40.00 0.00
+A. De Fussigny Cognacs Cognac 3 9.31 9.91 40.67 1.15
+Abita Beer 33 2.60 0.63 5.07 0.84
+Abita Light Beer 4 3.27 0.98 4.00 0.00
+Absente Liqueur Cordials/Liqueurs 25 3.00 0.29 55.00 0.00
+Absolut Vodkas Vodka 33 1.57 0.29 40.30 1.74
+Admiral Nelson's Rums Rum 24 0.92 0.15 37.79 5.89
+Aftershock Liqueurs Cordials/Liqueurs 26 1.89 0.34 40.00 0.00
+Agua Luca Cachaca Rum Rum 8 2.61 0.37 40.00 0.00
+Agwa De Bolivia Alcoholic Energy Drink 25 4.06 0.64 30.00 0.00
+Alize Liqueurs Cordials/Liqueurs 27 4.58 0.76 16.44 1.28
+Alize Cognac Cognac 6 2.84 0.74 38.67 3.27
+Allagash Beers Beer 22 4.19 1.18 6.23 1.57
+Allen's Cordials Cordials/Liqueurs 4 1.38 0.68 18.75 7.50
+Allen's Flavored Brandy Brandy 5 1.15 0.34 33.00 2.74
+Amaretto di Amore Cordials/Liqueurs 27 2.10 0.33 21.94 2.27
+Amarula Cream Liqueurs Cordials/Liqueurs 24 4.31 1.12 18.92 6.49
+American Sweetheart Cocktails Flavored Alcoholic Beverage 4 2.64 0.42 17.00 0.00
+Amstel Light Beer 39 2.95 0.40 3.50 0.00
+Ancient Age Straight Bourbon Whiskey Bourbon 13 0.88 0.13 40.00 0.00
+Andre Champagnes Wine 8 2.20 0.33 9.35 0.35
+Angoves Wines Wine 4 2.88 0.81 14.00 0.00
+Anheuser World Select Beer 4 2.08 0.57 5.00 0.00
+Antano Wines Wine 3 3.20 1.47 13.33 0.29
+Antigua Cruz Tequilas Tequila 6 3.03 0.67 40.00 0.00
+Antinori Wines Wine 8 3.84 1.45 12.50 0.89
+Appleton Rums Rum 31 1.52 0.54 40.00 0.00
+Arbor Mist Wines Wine 7 3.17 1.57 6.93 2.46
+Ardbeg Scotch Scotch 13 4.08 0.37 46.00 0.00
+Aristocrat Vodkas Vodka 8 0.58 0.12 40.00 0.00
+Aristocrat Gin Gin 7 0.56 0.08 40.00 0.00
+Aristocrat Rums Rum 5 0.59 0.03 40.00 0.00
+Armadale Vodkas Vodka 4 3.20 0.36 40.00 0.00
+Arrow Liqueurs Cordials/Liqueurs 21 1.20 0.61 27.62 12.26
+Artesa Wines Wine 8 4.88 0.89 13.55 0.54
+Asahi Beer 23 2.24 0.45 4.98 0.07
+Aspen Edge Low-Carb Light Beer 3 1.58 0.10 4.10 0.00
+Atalon Wines Wine 4 8.09 3.27 13.70 0.00
+Atlantico Rums Rum 6 3.49 0.30 40.00 0.00
+Atomiq Vodkas Vodka 1 1.67 0.00 40.00 0.00
+Autentico Tequilas Tequila 3 3.39 0.18 40.00 0.00
+Aveleda Wines Wine 7 3.81 0.46 8.93 1.13
+Avion Tequilas Tequila 17 4.37 0.34 40.00 0.00
+B&B Cognac Liqueur Cognac 4 3.61 0.28 40.00 0.00
+BOLS Liqueurs Cordials/Liqueurs 28 1.27 0.42 25.04 6.27
+Bacardi Rums Rum 32 0.99 0.17 41.11 6.28
+Bacardi Malt Beverages Flavored Alcoholic Beverage 30 2.13 0.51 13.83 1.43
+Bad Juanita's Margaritas Flavored Alcoholic Beverage 1 2.60 0.00 6.00 0.00
+Bafferts Gin Gin 4 1.65 0.84 40.00 0.00
+Baileys Irish Cream Liqueurs Cordials/Liqueurs 32 4.31 0.79 17.00 0.00
+Ballantine's Scotch Scotch 13 1.46 0.22 40.00 0.00
+Balvenie Scotch Scotch 14 4.49 0.77 44.08 2.05
+Bandit Wines Wine 6 1.77 0.40 13.50 0.55
+Banker's Club Brandy Brandy 3 0.90 0.14 40.00 0.00
+Banker's Club Gin Gin 3 0.58 0.06 40.00 0.00
+Barefoot Wines Wine 10 1.91 0.50 12.20 1.16
+Barnwood Vineyards Wines Wine 3 3.30 0.88 13.70 0.00
+Baron Herzog Wines Wine 10 3.13 0.60 13.03 0.76
+Baron Philippe De Rothschild Wines Wine 4 3.56 0.73 12.50 0.41
+Bartenders Cocktails Flavored Alcoholic Beverage 13 2.07 0.46 12.50 0.00
+Bartles & Jaymes Wine Coolers and Malt Beverages Flavored Alcoholic Beverage 9 2.94 0.56 4.00 0.00
+Barton Rums Rum 9 0.70 0.20 40.00 0.00
+Barton Gin Gin 11 0.57 0.11 40.00 0.00
+Barton Long Island Iced Tea Flavored Alcoholic Beverage 17 0.74 0.16 37.50 0.00
+Barton Vodkas Vodka 20 0.63 0.32 40.00 3.24
+Basil Haydens Bourbon Whiskey Bourbon 15 3.66 0.34 40.00 0.00
+Bass Ale Beer 37 2.13 0.41 5.09 0.11
+Beam's 8 Star Blended Whiskey Whiskey 11 0.64 0.11 40.00 0.00
+Beaulieu Wines Wine 8 3.08 1.70 14.09 1.79
+Beck's Beer 43 1.97 0.36 5.01 0.13
+Beck's Light Beer 30 3.76 1.27 2.85 0.74
+Bedell Cellars Wines Wine 3 6.55 0.87 12.00 0.00
+Beefeater Gin Gin 24 1.29 0.25 46.67 1.43
+Bell's Beer Beer 14 2.33 0.36 5.84 0.87
+Belvedere Vodkas Vodka 33 2.64 0.35 40.30 1.74
+Belvedere IX Alcoholic Energy Drink 26 3.49 0.64 42.69 4.52
+Benedictine Liqueur Cordials/Liqueurs 28 3.34 0.36 40.00 0.00
+Berberana Wines Wine 4 4.08 1.82 12.38 0.25
+Beringer Wines Wine 11 1.99 1.02 13.00 0.88
+Bernardus Wines Wine 9 4.90 0.83 13.44 0.53
+Bertani Wines Wine 10 5.29 2.86 13.75 0.72
+Biblia Chora Wines Wine 3 7.63 0.26 13.00 0.87
+Big House Wines Wine 9 2.35 1.10 13.38 0.56
+Biltmore Estate Wines Wine 3 3.23 0.56 12.83 0.29
+Bird Dog Blackberry Whiskey Whiskey 11 1.86 0.42 40.00 0.00
+Black Swan Wines Wine 8 1.53 0.22 13.56 0.18
+Black Velet Canadian Whiskey Whiskey 20 0.80 0.15 40.00 0.00
+Blackbird Vineyards Wines Wine 3 8.26 2.73 13.77 0.92
+Blackstone Wines Wine 9 2.60 0.67 13.19 0.46
+Blast by Colt 45 Flavored Alcoholic Beverage 1 0.74 0.00 12.00 0.00
+Blue Fish Wines Wine 6 2.48 0.92 12.83 0.61
+Blue Moon Beer 37 1.92 0.26 5.37 0.08
+Boddingtons Beer 31 2.42 0.44 4.62 0.06
+Bodega Dehesa de los Canonigos Wines Wine 1 6.19 0.00 14.00 0.00
+Bodega Norton Wines Wine 9 2.34 0.46 13.94 0.17
+Bols Brandy Brandy 5 1.19 0.24 35.00 0.00
+Bombay Sapphire Gin Gin 24 1.52 0.21 47.00 0.00
+Bonny Doon Vineyard Wines Wine 11 4.37 2.03 13.71 0.62
+Bonterra Wines Wine 10 3.12 0.58 13.45 0.13
+Boones Farm Cocktails Flavored Alcoholic Beverage 9 2.42 0.93 6.30 1.80
+Booya Espresso Tequila with Caffeine Alcoholic Energy Drink 2 2.46 1.67 40.00 0.00
+Botalcura El Delirio Wines Wine 3 2.84 0.97 14.00 0.00
+Boulevard Brewing Company Beers Beer 14 2.34 0.83 5.86 1.14
+Boutari Moschofilero Wine Wine 7 4.28 0.84 12.86 1.44
+Bowman's Virginia Gin Gin 3 0.53 0.06 40.00 0.00
+Bowmore Scotch Scotch 14 3.37 0.97 40.43 1.09
+Boyd & Blair Potato Vodka Vodka 5 3.43 1.07 40.00 0.00
+Brancaia Wine Wine 6 9.66 7.28 14.00 0.32
+Brancott Vineyards Wines Wine 10 3.68 0.50 12.20 0.42
+Breckenridge Brewery Beers Beer 19 2.44 0.68 5.70 2.14
+Bridlewood Estate Winery Wine 7 3.42 0.57 13.76 0.45
+Brilliant Vodkas Vodka 3 2.94 0.91 40.00 0.00
+Brugal Rums Rum 19 1.53 0.46 40.00 0.00
+Bucephalus Wine Wine 1 34.47 0.00 14.30 0.00
+Buchanan's Scotch Scotch 12 4.68 3.44 38.33 5.77
+Bud Ice Beer 25 1.23 0.26 5.50 0.00
+Bud Light Beer 37 1.60 0.37 4.20 0.00
+Budweiser Beer Beer 36 1.29 0.23 5.00 0.00
+Budweiser Select Beer 32 1.87 0.62 3.94 0.75
+Buena Vista Wines Wine 7 6.81 5.11 13.33 0.33
+Buffalo Trace Bourbon Whiskey Bourbon 13 1.94 0.30 44.62 1.39
+Bulldog Gin Gin 7 2.66 0.38 40.00 0.00
+Bulleit Bourbon Frontier Whiskey Bourbon 15 1.93 0.33 45.00 0.00
+Burnett's Cocktails Flavored Alcoholic Beverage 6 1.46 0.42 15.00 0.00
+Burnett's Gin Gin 21 0.73 0.09 40.00 0.00
+Burnett's Vodkas Vodka 29 0.74 0.25 40.69 2.58
+Busch Beer 32 1.21 0.46 4.64 0.12
+Busch Light Beer 28 1.27 0.46 4.20 0.00
+Bushmills Irish Whiskey Whiskey 19 2.44 0.98 40.00 0.00
+Ca Montini Wines Wine 5 5.45 1.57 12.80 0.91
+Cabana Cachaca Rums Rum 7 2.60 0.81 40.00 0.00
+Cabo Uno Tequilas Tequila 18 21.45 4.82 40.00 0.00
+Cabo Wabo Tequilas Tequila 32 3.36 0.57 40.00 0.00
+Calico Jack Rums Rum 8 0.83 0.12 35.63 1.77
+Callabriga Wines Wine 3 7.15 3.61 13.67 0.58
+Campari Liqueurs Cordials/Liqueurs 25 4.23 0.56 23.58 1.16
+Canadian Club Whiskey Whiskey 21 1.09 0.23 40.00 0.00
+Canadian LTD Whiskey Whiskey 19 0.67 0.12 40.00 0.00
+Canadian Mist Whiskey Whiskey 21 0.84 0.15 40.00 0.00
+Canadian Rich & Rare Whiskey Whiskey 15 0.73 0.12 40.00 0.00
+Canaletto Wines Wine 3 2.43 0.36 12.50 0.50
+Cantina Tollo Wines Wine 3 5.46 2.49 13.17 0.29
+Cape North Vodkas Vodka 5 3.13 0.77 40.00 0.00
+Capital Brewery Beers Beer 6 2.59 0.21 6.47 1.59
+Captain Morgan Rums Rum 33 1.31 0.32 40.15 7.12
+Captain Morgan's Cocktails and Malt Beverages Flavored Alcoholic Beverage 26 1.96 0.53 17.08 1.75
+Caravella Liqueurs Cordials/Liqueurs 30 2.74 0.37 30.47 1.87
+Cardenal Mendoza Brandy Brandy 7 5.35 0.70 40.00 0.00
+Carmel Road Wine Wine 8 4.28 0.30 14.06 0.18
+Carmen Reserve Wine Wine 5 2.29 1.22 13.68 0.69
+Carolan's Irish Cream Cordials/Liqueurs 25 2.67 0.53 17.00 0.00
+Casa Dragones Tequilas Tequila 5 27.00 0.22 40.00 0.00
+Casa Garcia Wines Wine 4 2.75 0.61 12.75 2.50
+Casa Lapostolle Wine Wine 10 3.45 0.95 12.95 0.16
+Casa Silva Wines Wine 3 3.75 0.52 13.50 0.00
+Casillero Del Diablo Wines Wine 5 2.93 0.44 13.44 0.25
+Castello Banfi Wines Wine 7 5.69 6.59 13.30 0.47
+Castillo Rums Rum 25 0.77 0.12 40.00 0.00
+Catena Wines Wine 10 4.25 1.07 13.83 0.24
+Cave de Tain Wines Wine 3 7.84 5.86 13.33 0.29
+Cavit Wines Wine 10 1.79 0.68 13.90 0.32
+Cazadores Tequilas Tequila 30 2.63 0.43 40.00 0.00
+Chambord Liqueurs Cordials/Liqueurs 33 7.59 0.78 16.70 1.13
+Chambord Flavored Vodka Vodka 15 2.57 0.31 37.67 0.65
+Chandon Wines and Champagnes Wine 7 6.65 2.98 12.07 0.19
+Charge / Liquid Charge Flavored Alcoholic Beverage 2 1.45 0.50 6.90 0.00
+Charles Shaw Wines ("2 Buck Chuck") Wine 1 0.95 0.00 12.50 0.00
+Chateau Cabezac Wines Wine 2 4.69 0.39 13.75 0.35
+Chateau Corton Grancey Wines Wine 3 16.75 6.35 14.00 0.00
+Chateau D'Esclans Wines Wine 5 5.58 0.57 13.50 0.00
+Chateau Ducru-Beaucaillou Wine Wine 7 59.30 69.57 13.36 0.80
+Chateau Fombrauge Wine Wine 4 8.59 2.50 14.50 0.00
+Chateau Haut-Brion Wines Wine 4 16.01 2.63 12.00 0.00
+Chateau Julien Wines Wine 3 3.50 0.77 13.50 0.00
+Chateau Ksara Wines Wine 3 3.09 0.20 13.00 0.00
+Chateau Lalande-Borie Wines Wine 5 7.74 0.30 13.00 0.00
+Chateau Lascombes Wines Wine 5 23.22 10.17 13.00 0.00
+Chateau Latour Wines Wine 6 86.18 123.84 13.42 0.49
+Chateau Leoville Barton Wines Wine 8 27.92 13.96 12.69 0.53
+Chateau Les Grands Chene Wines Wine 3 10.11 3.45 13.00 0.00
+Chateau Pape-Clement Wine Wine 5 34.26 17.13 14.00 0.00
+Chateau Pichon-Longueville Wine Wine 4 50.47 40.54 14.00 0.00
+Chateau St. Jean Wines Wine 11 3.70 0.73 12.67 1.39
+Chateau Ste. Michelle Wines Wine 10 2.55 0.35 13.13 0.44
+Chateau Talbot Wine Wine 7 14.35 5.44 14.00 0.00
+Chateau Thomas Wine Wine 3 3.32 0.36 12.00 0.00
+Chaya Tequilas Tequila 7 3.47 0.69 40.00 0.00
+Cherrywood Cellars Wines Wine 2 1.93 0.05 13.75 0.35
+Chi-Chi's Cocktails Flavored Alcoholic Beverage 22 1.53 0.30 12.45 0.63
+Chimney Rock Wines Wine 8 11.82 5.30 14.05 0.09
+Chivas Regal Scotch Scotch 15 2.83 0.31 40.00 0.00
+Chopin Vodkas Vodka 33 3.04 0.63 40.00 0.00
+Christian Brothers Brandy Brandy 20 0.87 0.13 40.00 0.00
+Christian Brothers Holiday Nog Flavored Alcoholic Beverage 8 2.67 0.74 10.00 0.00
+Christiania Vodkas Vodka 6 2.98 0.55 40.00 0.00
+Ciclon Rums Rum 3 1.94 0.61 38.33 2.89
+Cinco Blancos Tequilas Tequila 1 1.48 0.00 40.00 0.00
+Ciroc Vodkas Vodka 31 2.89 0.37 39.68 1.25
+Cisco Wines Fortified Wine 3 0.91 0.08 17.33 0.58
+Citra Wines Wine 9 1.60 0.34 14.00 0.00
+Clan MacGregor Scotch Scotch 14 0.85 0.09 40.64 2.41
+Clarendelle Wine Wine 3 5.15 1.52 13.00 0.00
+Clear Spring Grain Alcohol 190 Grain Alcohol 4 0.77 0.32 95.00 0.00
+Clontarf Irish Whiskey Whiskey 10 2.05 0.15 40.00 0.00
+Clos Du Bois Wines Wine 11 3.64 1.99 13.32 0.60
+Clos Du Val Wines Wine 10 6.53 1.58 13.95 0.16
+Clos de Los Wines Wine 4 4.91 0.41 14.13 0.25
+Cloudy Bay Wines Wine 10 6.62 1.22 12.80 1.03
+Cluny Blended Scotch Scotch 10 1.04 0.21 40.00 0.00
+Coconut Jack Rums Rum 18 1.73 0.29 21.00 0.00
+Cointreau Liqueurs Cordials/Liqueurs 35 3.44 0.80 39.43 3.38
+Cold River Vodkas Vodka 8 3.83 0.62 40.00 0.00
+Colt 45 Malt Liquor Beer 13 0.93 0.20 6.09 0.03
+Columbia Crest Wines Wine 11 2.16 0.43 12.92 0.75
+Concannon Vineyard Wines Wine 8 2.43 0.42 13.43 0.40
+Concha y Toro Wines Wine 11 2.95 4.90 12.75 0.86
+Coors Beer 34 1.23 0.24 5.00 0.00
+Coors Light Beer 39 1.54 0.28 4.20 0.00
+Copa de Oro Liqueurs Cordials/Liqueurs 21 1.63 0.29 22.71 2.54
+Corazon Tequilas Tequila 26 3.15 0.91 40.00 0.00
+Corona Extra Beer 34 2.10 0.30 4.59 0.07
+Corona Extra Light Beer 34 2.38 0.40 4.10 0.29
+Corzo Tequilas Tequila 29 4.70 0.71 40.00 0.00
+Courvoisier Cognacs Cognac 16 2.47 0.67 40.00 0.00
+Covey Run Wines Wine 9 2.01 0.64 12.37 1.13
+Coyopa Rums Rum 3 4.84 0.86 40.00 0.00
+CREAM Alcoholic Whipped Cream 7 5.79 1.00 15.00 0.00
+Croft Porto Wine Wine 9 4.23 3.63 19.89 0.22
+Crown Royal Whiskey Whiskey 21 2.25 0.40 40.00 0.00
+Crown Russe Gin Gin 3 0.64 0.09 40.00 0.00
+Cruzan Rums Rum 32 1.22 0.55 43.97 14.67
+Cruzan Mojito Flavored Alcoholic Beverage 12 2.39 0.49 9.95 0.00
+Crystal Head Vodkas Vodka 30 4.39 0.59 40.00 0.00
+Crystal Palace Vodkas Vodka 7 0.56 0.11 40.00 0.00
+Crystal Palace Gin Gin 8 0.58 0.10 40.00 0.00
+Cupcake Vineyards Wine Wine 9 2.56 0.36 13.82 0.35
+Cutty Sark Scotch Scotch 15 1.59 0.22 40.00 0.00
+Cuvaison Wine Wine 9 6.13 1.19 14.02 0.07
+Czechvar Beer Beer 26 2.74 0.34 4.95 0.25
+Da Vinci Wine Wine 8 3.76 0.83 12.88 0.23
+Dailys Cocktails Flavored Alcoholic Beverage 12 2.94 0.72 6.90 0.00
+Dale's Pale Ale Beer 13 2.11 0.46 6.50 0.00
+Dalmore Scotch Scotch 11 4.42 0.45 40.00 0.00
+Damilano Barolo Wine Wine 3 11.17 2.07 14.00 0.00
+Damrak Amsterdam Gin Gin 6 2.33 0.57 41.83 0.08
+Dan Aykroyd Discovery Series Wine Wine 5 6.24 0.99 12.00 0.00
+Dancing Bull Wines Wine 9 2.28 0.44 13.68 0.21
+Danny Devito Liqueurs Cordials/Liqueurs 7 3.26 0.75 30.00 0.00
+Danzka Vodkas Vodka 4 1.90 0.36 38.75 2.50
+De Bortoli Wine Wine 4 3.17 1.30 12.50 3.00
+De Loach Wines Wine 10 3.02 0.85 14.00 0.00
+DeLeon Tequilas Tequila 9 11.96 2.46 40.00 0.00
+Deinhard Wines Wine 4 5.99 2.06 10.00 0.00
+Dekuyper Cordials & Liqueurs Cordials/Liqueurs 32 1.30 0.48 30.00 11.95
+Dekuyper Gin Gin 3 1.38 0.26 30.00 0.00
+Dekuyper Ready to Drink Shots Flavored Alcoholic Beverage 23 1.88 0.50 20.00 0.00
+Desert Island Long Island Iced Tea Flavored Alcoholic Beverage 14 0.76 0.16 37.50 0.00
+Dewar's Scotch Scotch 15 1.89 0.24 40.00 0.00
+Dirty Blonde Cocktails Flavored Alcoholic Beverage 1 3.69 0.00 12.00 0.00
+Disaronno Originale Amaretto Cordials/Liqueurs 34 2.90 0.41 28.02 0.11
+Dogfish Head Beers Beer 31 2.49 0.55 7.00 1.50
+Domaine Chandon Wines Wine 6 6.71 3.97 13.08 0.80
+Domaine Serene Wines Wine 6 11.72 4.10 14.00 0.26
+Domaine de Canton Brandy Brandy 3 4.36 0.37 28.00 0.00
+Don Cardona Tequilas Tequila 3 4.44 0.43 40.00 0.00
+Don Julio Tequilas Tequila 31 4.25 0.74 40.00 0.00
+Don Miguel Gascon Wine Wine 8 3.29 0.90 14.64 0.46
+Don Pedro Brandy Brandy 7 1.55 0.32 40.00 0.00
+Don Q Rums Rum 24 1.24 1.12 40.00 0.00
+Don Ramon Tequilas Tequila 5 3.01 0.16 40.00 0.00
+Dos Equis Beer 36 1.93 0.31 4.90 0.20
+Dos Lunas Tequilas Tequila 10 3.34 0.72 40.00 0.00
+Dow's Wines Wine 8 4.20 1.58 18.25 2.95
+Dr. McGillicuddy's Cordials Cordials/Liqueurs 27 2.27 0.60 24.78 3.39
+Drambuie Liqueurs Cordials/Liqueurs 34 3.34 0.31 40.00 0.00
+Dry Fly Vodkas Vodka 9 2.89 0.42 40.00 0.00
+Dulseda Dulce De Leche Liqueurs Cordials/Liqueurs 4 6.63 1.36 15.00 0.00
+Dumante Verdenoce Cordials/Liqueurs 5 5.74 0.34 28.00 0.00
+E & J Liqueurs Cordials/Liqueurs 22 2.53 0.45 16.91 0.29
+E&J Gallo Brandy Brandy 19 0.90 0.14 40.00 0.00
+EOS Wine Wine 5 6.05 5.19 13.06 1.21
+Early Times Old Style Kentucky Whiskey Bourbon 15 0.96 0.14 40.00 0.00
+Ecco Domani Wines Wine 8 2.98 0.50 12.38 0.52
+Ed Hardy Vodkas Vodka 16 3.29 0.78 40.00 0.00
+Edge Wine Wine 3 5.20 0.27 14.40 0.00
+Efe Raki Cordials/Liqueurs 4 2.65 0.74 45.00 0.00
+Effen Vodkas Vodka 26 2.68 0.54 39.23 1.84
+El Diamante Del Cielo Tequilas Tequila 7 4.45 0.43 40.00 0.00
+El Jimador Tequilas Tequila 31 1.77 0.48 40.00 0.00
+El Mayor Tequilas Tequila 18 3.59 0.65 40.00 0.00
+Emeritus Wine Wine 3 13.33 5.47 14.30 0.00
+Emiliana Organic Vineyards Wines Wine 3 4.53 3.14 14.17 0.29
+Emmets Irish Cream Cordials/Liqueurs 21 2.55 0.44 17.00 0.00
+Ernie Els Wine Wine 3 12.42 6.59 15.00 0.00
+Estate Hatzimichalis Wines Wine 3 5.73 1.97 12.67 0.58
+Estrella Beer 19 2.90 1.51 5.40 0.16
+Evan Williams Bourbon Whiskeys Bourbon 15 0.89 0.28 41.87 2.07
+Evan Williams Egg Nog Flavored Alcoholic Beverage 12 1.84 0.39 15.00 0.00
+Evan Williams Liqueurs Cordials/Liqueurs 16 1.56 0.16 35.00 0.00
+Everclear 151 Grain Alcohol 5 0.82 0.16 75.50 0.00
+Everclear 190 Grain Alcohol 16 0.63 0.12 95.00 0.00
+Everclear Purple Passion Flavored Alcoholic Beverage 9 1.55 0.52 13.00 0.00
+Everglo Alcoholic Energy Drink 7 5.31 2.99 20.00 0.00
+Evil Eye Flavored Alcoholic Beverage 3 0.55 0.12 10.00 0.00
+Evil Spirits Cocktails Flavored Alcoholic Beverage 2 2.46 0.00 10.00 0.00
+Ezra Brooks Bourbon Whiskeys Bourbon 15 0.95 0.17 43.33 2.44
+Fabrizia Liqueurs Cordials/Liqueurs 4 2.58 0.23 27.00 0.00
+Falesco Vitiano Wine Wine 10 3.33 0.66 12.80 0.35
+Famous Grouse Scotch Scotch 15 1.96 0.33 40.00 0.00
+Fat Ass Tequilas Tequila 4 3.93 0.35 40.00 0.00
+Fat Tire Beer 27 2.19 0.32 5.28 0.04
+Faustino Wine Wine 7 3.33 1.37 13.79 0.81
+Ferrari Carano Wines Wine 10 3.94 1.21 13.89 0.31
+Fetzer Vineyards Wines Wine 9 1.90 0.46 12.13 1.55
+Ficiligno Wines Wine 3 4.32 1.29 12.50 0.00
+Finca Flichman Wine Wine 4 2.45 0.42 13.78 0.54
+Finlandia Vodkas Vodka 30 1.38 0.37 39.83 0.91
+Firefly Cocktails Flavored Alcoholic Beverage 17 2.49 0.41 12.50 0.00
+Firefly Bourbon Bourbon 11 2.37 0.23 32.27 4.10
+Firefly Vodkas Vodka 29 1.95 0.45 35.00 0.00
+Fisheye Wines Wine 7 1.39 0.34 13.29 0.27
+Five O'Clock Vodkas Vodka 6 0.59 0.11 40.00 0.00
+Five O'Clock Gin Gin 7 0.58 0.08 40.00 0.00
+Five Star Whiskey Whiskey 4 0.61 0.11 40.00 0.00
+Fleischmann's Royal Vodkas Vodka 19 0.59 0.18 39.74 1.15
+Fleischmann's Gin Gin 18 0.66 0.13 40.00 0.00
+Flor de Cana Rums Rum 24 1.85 1.11 39.79 1.02
+Folie a Deux Wine Wine 7 4.16 1.11 14.00 0.00
+Folonari Wines Wine 7 1.80 0.42 11.71 0.39
+Fonseca Wine Wine 10 3.17 0.57 19.30 2.21
+Forty Creek Canadian Whiskey Whiskey 15 2.00 0.24 40.00 0.00
+Fosters Beer 33 1.87 0.33 4.92 0.05
+Four Loko Flavored Alcoholic Beverage 10 0.82 0.21 11.40 1.90
+Four MaXed Flavored Alcoholic Beverage 2 0.68 0.15 10.00 0.00
+Fragoli Liqueurs Cordials/Liqueurs 10 6.33 0.76 24.00 0.00
+Francis Coppola Wines Wine 11 2.74 0.60 13.36 0.55
+Franciscan Estate Selections Wine Wine 7 4.92 0.78 13.47 0.13
+Frangelico Liqueurs Cordials/Liqueurs 32 3.80 0.65 23.75 0.98
+Franzia Wines Wine 7 0.70 0.14 10.16 2.08
+Freakout Wine Wine 4 4.47 0.40 14.00 0.00
+Frei Brothers Reserve Wine Wine 8 3.82 0.66 13.90 0.47
+Freixenet Wines Wine 10 2.74 0.48 12.85 1.13
+Frescobaldi Wine Wine 8 3.56 0.79 12.06 0.18
+Frey Vineyards Wines Wine 6 2.71 0.82 13.13 0.40
+Fris Vodkas Vodka 27 0.92 0.25 39.81 0.96
+Fuedo Arancio Wines Wine 6 2.53 0.34 13.42 0.20
+Gabbiano Wine Wine 9 2.56 0.64 13.17 0.79
+Galliano L'Autentico Liqueur Cordials/Liqueurs 29 3.43 0.69 41.47 3.18
+Gallo Wines Wine 10 1.81 1.27 13.76 2.58
+Gazela Wines Wine 6 2.91 0.37 9.00 0.00
+Gem Clear 190 Grain Alcohol 3 0.52 0.10 95.00 0.00
+Genesee Beer 20 1.35 0.60 4.88 0.56
+Gentleman Jack Tennessee Whiskey Bourbon 15 2.43 0.23 40.00 0.00
+Georges Duboeuf Wines Wine 10 2.30 0.83 13.15 0.82
+Gerard Bertrand Wines Wine 4 4.00 1.55 12.88 0.48
+Geyser Peak Winery Wines Wine 10 3.14 0.50 12.95 0.40
+Gilbey's Vodkas Vodka 24 0.77 0.33 40.00 0.00
+Gilbey's Gin Gin 21 0.77 0.12 40.00 0.00
+Glenfiddich Scotch Scotch 15 3.65 0.47 40.20 0.77
+Glenlivet Scotch Scotch 15 3.39 0.40 40.00 0.00
+Glenmorangie Scotch Scotch 15 3.66 0.54 43.20 0.77
+Gloria Ferrer Wines Wine 9 4.83 1.84 13.06 1.01
+Gnarly Head Wine Wine 9 2.58 0.45 14.28 0.36
+Godiva Liqueurs Cordials/Liqueurs 32 9.54 12.69 15.25 0.67
+Gold Crown Rums Rum 2 0.59 0.06 40.00 0.00
+Golden Grain Alcohol 190 Grain Alcohol 3 0.66 0.09 95.00 0.00
+Goldschlager Liqueurs Cordials/Liqueurs 30 2.05 0.24 43.50 0.13
+Goose Island Beer 25 3.00 0.78 5.77 1.44
+Goose Ridge Vineyards Wine Wine 3 3.32 0.67 13.37 1.69
+Gordon Biersch Beer 8 1.90 0.85 5.98 0.65
+Gordon's Vodkas Vodka 28 0.75 0.13 40.00 0.00
+Gordon's Gin Gin 23 0.83 0.21 40.00 0.00
+Gosling's Rums Rum 27 1.48 0.33 47.91 13.78
+Gran Centenario Tequilas Tequila 23 2.89 0.91 40.00 0.00
+Gran Patron Tequilas Tequila 11 19.68 0.92 40.00 0.00
+GranGala Liqueurs Cordials/Liqueurs 21 1.80 0.27 40.00 0.00
+Grand Marnier Liqueurs Cordials/Liqueurs 33 3.35 0.41 40.00 0.00
+Grande Absente Liqueurs Cordials/Liqueurs 14 3.83 0.35 69.00 0.00
+Grant's Scotch Scotch 14 1.49 0.22 40.00 0.00
+Greg Norman Estates Wines Wine 7 3.56 0.58 13.74 0.59
+Grey Goose Vodkas Vodka 34 2.62 0.42 40.00 0.00
+Grgich Hills Wines Wine 9 8.73 3.90 13.46 0.54
+Grolsch Beers Beer 34 2.27 0.37 5.00 0.00
+Grolsch Light Lager Beer 6 2.72 0.58 4.27 0.82
+Guinness Beers Beer 40 2.58 0.59 4.70 0.59
+Guiseppe Campagnola Wine Wine 3 8.62 5.48 14.00 1.73
+Halter Ranch Wines Wine 3 4.41 0.86 14.00 0.00
+Hamm's Beer 8 1.07 0.08 4.70 0.00
+Hammock Bay Rums Rum 3 1.55 0.19 35.00 0.00
+Hangar One Vodkas Vodka 26 3.12 0.41 39.81 0.98
+Harbin Beer Beer 2 2.42 0.51 4.80 0.00
+Harpoon Beer 15 1.98 0.38 6.17 1.56
+Hawkeye Vodkas Vodka 2 2.33 2.65 40.00 0.00
+Heaven Hill Blended Whiskey Whiskey 7 0.82 0.26 40.43 1.13
+Heineken Beer 40 1.95 0.32 5.01 0.02
+Heineken Premium Light Beer Beer 31 2.88 0.59 3.31 0.05
+Hendricks Gin Gin 24 2.61 0.33 44.00 0.00
+Hennessy Cognacs Cognac 16 2.83 0.38 40.00 0.00
+Henry Fessy Wines Wine 4 4.65 1.10 13.13 0.25
+Henry Weinhard Beer 5 1.75 0.30 4.78 0.11
+Herradura Tequilas Tequila 30 3.39 0.49 40.00 0.00
+Hewitt Vineyard Wines Wine 4 21.04 2.15 14.00 0.00
+Highland Park Scotch Scotch 15 3.62 1.19 42.60 1.06
+Hiram Walker Liqueurs Cordials/Liqueurs 29 1.63 0.79 27.21 12.73
+Hiram Walker Brandy Brandy 8 1.17 0.22 33.75 2.31
+Hispaniola Mamajuana Cordials/Liqueurs 3 1.31 0.15 40.00 0.00
+Hoegaarden White Beer Beer 37 2.47 0.34 4.99 0.03
+Hofbrau Beer Beer 29 2.54 0.59 5.45 0.61
+Hogue Wine Wine 10 2.51 0.44 13.36 0.69
+Hpnotiq Liqueurs Cordials/Liqueurs 29 5.26 0.92 17.00 0.00
+Hudy Delight Beer 2 1.23 0.26 4.15 0.35
+Hula Girl Cocktails Flavored Alcoholic Beverage 1 3.32 0.00 10.00 0.00
+Hurricane Beers Beer 7 0.73 0.24 7.79 0.83
+Ibericos Wines Wine 3 3.94 0.28 14.00 0.00
+Iceberg Vodkas Vodka 15 1.07 0.22 40.00 0.00
+Icebox Cocktails Flavored Alcoholic Beverage 16 1.68 0.49 13.56 2.90
+Icehouse Beer 22 1.04 0.34 5.50 0.00
+Imperia Vodkas Vodka 18 2.63 0.56 40.00 0.00
+Imperial Vodkas Vodka 8 3.04 1.17 40.00 0.00
+Inniskillin Wines Wine 10 42.43 13.70 9.50 0.00
+Iron City (I.C.) Beers Beer 7 1.94 0.22 4.46 0.11
+Irony Wines Wine 8 3.61 1.13 12.63 1.06
+Island Breeze Rums Rum 5 2.69 0.63 18.00 0.00
+J Lohr Estate Wine Wine 9 2.98 0.60 13.51 0.81
+J Vineyards Wines Wine 7 4.22 0.57 14.41 0.07
+J&B Scotch Scotch 14 1.78 0.23 40.00 0.00
+Jack Daniel's Whiskeys Bourbon 15 1.74 0.18 40.20 0.77
+Jack Daniel's Cocktails Flavored Alcoholic Beverage 15 2.88 1.49 5.00 0.00
+Jack Nicklaus Wines Wine 2 9.16 0.00 14.20 0.00
+Jacob's Creek Wines Wine 9 2.44 1.08 12.74 0.74
+Jacques & Francois Lurton Wine Wine 4 3.18 1.16 13.13 0.48
+JC VSOP Cognac Cognac 12 2.82 0.40 40.00 0.00
+Jacquin Vodkas Vodka 3 0.87 0.47 37.67 4.04
+Jacquin's Flavored Brandy Brandy 8 1.32 0.56 35.38 2.00
+Jade Mountain Wines Wine 5 3.29 0.40 13.40 0.22
+Jagermeister Cordials/Liqueurs 33 2.21 0.40 35.00 0.00
+Jameson Irish Whiskey Whiskey 21 1.98 0.34 40.00 0.00
+Jargon Wines Wine 6 3.36 0.58 12.50 0.77
+Jean-Marc XO Vodkas Vodka 16 5.36 1.09 40.00 0.00
+Jenkins Rums Rum 3 0.63 0.05 40.00 0.00
+Jenkins Cordials Cordials/Liqueurs 1 1.06 0.00 24.00 0.00
+Cocktails by Jenn Flavored Alcoholic Beverage 5 5.20 2.47 17.00 0.00
+Jeremiah Weed Bourbon Whiskeys Bourbon 9 1.35 0.10 45.00 0.00
+Jeremiah Weed Half and Half Flavored Alcoholic Beverage 16 3.03 0.76 12.70 0.00
+Jeremiah Weed Bourbon Liqueur Cordials/Liqueurs 9 1.15 0.22 50.00 0.00
+Jeremiah Weed Vodkas Vodka 23 1.56 0.38 35.00 0.00
+Jermann Wines Wine 7 6.11 2.03 13.86 0.38
+Jim Beam Bourbon Whiskeys Bourbon 15 1.17 0.20 40.87 1.85
+Johannishof Wine Wine 3 6.85 1.27 10.83 1.89
+Johnnie Walker Scotch Scotch 15 2.00 0.23 40.00 0.00
+Jolly Roger Rums Rum 3 1.90 0.94 35.00 8.66
+Joose Flavored Alcoholic Beverage 10 0.91 0.13 11.58 0.89
+Jose Cuervo Tequilas Tequila 30 1.36 0.37 40.00 0.00
+Jose Cuervo Margaritas Flavored Alcoholic Beverage 29 2.76 0.57 11.95 1.23
+Joseph Phelps Vineyards Wines Wine 8 8.13 4.45 13.88 0.23
+Kahlua Liqueurs Cordials/Liqueurs 35 3.03 0.63 23.84 6.35
+Kahlua Cocktails Flavored Alcoholic Beverage 28 2.07 0.39 12.50 0.00
+Kaiken Wines Wine 8 3.67 0.74 14.51 0.04
+Kamchatka Vodkas Vodka 17 0.69 0.32 40.00 0.00
+Kamora Liqueurs Cordials/Liqueurs 28 1.75 0.41 23.25 3.31
+Kapali Liqueurs Cordials/Liqueurs 16 1.71 0.32 22.28 3.10
+Kendall-Jackson Estates Wines Wine 7 3.36 0.44 13.90 0.18
+Kentucky Ale Beer 5 2.27 0.31 5.25 0.14
+Kentucky Gentleman Bourbon Whiskey Bourbon 4 0.70 0.03 40.00 0.00
+Kentucky Tavern Straight Bourbon Whiskey Bourbon 6 0.75 0.06 40.00 0.00
+Kenwood Wines Wine 10 3.78 3.85 13.60 0.61
+Ketel One Vodkas Vodka 33 1.89 0.27 40.00 0.00
+Keystone Premium Beer 8 1.19 0.34 4.05 0.14
+Keystone Ice Beer 11 0.74 0.08 5.90 0.00
+Keystone Light Beer 26 1.18 0.19 4.20 0.00
+Killarney's Red Lager Beer 2 2.18 1.03 5.70 0.00
+Killer Juice Wine Wine 3 1.49 0.23 13.67 0.29
+Killian's Irish Red Lager Beer 28 1.93 0.49 4.90 0.00
+Kim Crawford Wine Wine 11 3.97 1.00 12.64 0.23
+King Cobra Beer 9 1.01 0.61 5.92 0.04
+Kirin Beer Beer 25 2.12 0.56 4.93 0.34
+Knob Creek Kentucky Straight Bourbon Whiskey Bourbon 15 2.11 0.25 50.67 2.58
+Kokanee Beer 10 1.94 0.50 4.89 0.49
+Kono Baru Wine Wine 3 2.75 0.11 14.00 0.00
+Korbel California Champagnes Wine 9 3.68 0.80 12.22 0.36
+Korbel Brandy Brandy 18 0.97 0.18 40.00 0.00
+Korus Wine Wine 3 3.63 1.48 14.00 0.00
+Kouros Wines Wine 3 3.21 0.41 13.00 0.00
+Kozi Vodkas Vodka 1 1.48 0.00 40.00 0.00
+Kraken Rums Rum 28 1.36 0.30 47.04 0.19
+Kunde Family Estate Wines Wine 8 3.40 1.10 13.50 0.53
+Kutskova Vodkas Vodka 3 1.64 0.29 40.00 0.00
+Kuya Fusion Rums Rum 4 1.47 0.25 35.00 0.00
+La Crema Wine Wine 10 4.82 1.21 13.59 0.43
+La Vieille Ferme Wine Wine 9 2.04 0.39 13.11 1.05
+Labatt Blue Beer 32 1.57 0.51 5.00 0.00
+Labatt Blue Light Beer 16 1.89 0.39 4.01 0.02
+Laboure-Roi Wines Wine 6 3.64 1.55 12.77 0.68
+Lady Bligh Rums Rum 4 0.83 0.12 38.06 2.24
+Lakemaid Beer Beer 4 2.13 0.14 4.73 0.15
+Laroche Wine Wine 3 2.99 0.90 14.00 0.00
+Layer Cake Wine Wine 10 3.93 0.38 14.09 0.63
+Lazy Mutt Farmhouse Ale Beer 4 1.72 0.14 5.00 0.00
+Leblon Rums Rum 17 2.46 0.44 40.00 0.00
+Leffe Blonde Beer 31 2.09 0.28 6.60 0.00
+Leinenkugel's Beer 30 2.17 0.64 4.83 0.24
+Leroux Brandy Brandy 10 1.00 0.12 37.00 3.50
+Level Vodkas Vodka 25 2.91 0.67 40.00 0.00
+Lindemans Wines Wine 9 1.56 0.14 13.94 0.17
+Little Black Dress Wine Wine 8 2.92 0.52 13.63 0.23
+Llord's Cordials Cordials/Liqueurs 8 1.38 0.33 15.00 0.00
+Lord Calvert Canadian Whiskey Whiskey 19 0.71 0.11 40.00 0.00
+Lotus Vodka Alcoholic Energy Drink 5 2.35 0.68 40.00 0.00
+Louis Jadot Wines Wine 9 3.25 0.59 14.00 0.00
+Louis M. Martini Wines Wine 8 3.70 0.52 13.50 0.00
+Luigi Bosca Wine Wine 7 3.74 0.85 14.13 0.26
+Luis Felipe Edwards Wines Wine 5 2.76 0.78 13.90 0.22
+Luna Wine Wine 6 3.56 0.39 14.00 0.00
+Luna di Luna Wines Wine 6 3.23 0.76 12.00 0.00
+MacMurray Ranch Wine Wine 8 4.61 0.81 13.84 0.23
+MacNaughton Whiskey Whiskey 8 0.85 0.11 40.00 0.00
+Macallan Scotch Scotch 15 4.09 0.58 41.80 1.52
+Mad Dog Fortified Wine 7 1.03 0.13 13.07 0.19
+Main Street Winery Wines Wine 7 2.86 0.52 13.83 0.24
+Maker's Mark Bourbon Bourbon 15 2.02 0.15 45.00 0.00
+Malartic Lagraviere Wine Wine 4 12.28 1.79 13.00 0.00
+Malibu Rums Rum 30 2.17 0.55 21.57 2.60
+Malibu Cocktails Flavored Alcoholic Beverage 14 2.18 0.30 15.00 0.00
+Manso & Contreras Brandy Brandy 3 6.47 0.49 40.00 0.00
+Marchesi di Barolo Wine Wine 8 12.54 13.55 13.45 0.73
+Margarita King Margaritas Flavored Alcoholic Beverage 3 3.78 0.13 17.00 0.00
+Margaritaville Tequilas Tequila 25 1.34 0.37 40.00 0.00
+Margaritaville Cocktails Flavored Alcoholic Beverage 19 2.58 0.86 10.66 2.30
+Marie Brizard Liqueurs Cordials/Liqueurs 19 3.00 0.82 25.68 6.52
+Markham Wines Wine 9 4.23 0.69 13.89 0.11
+Martell Cognacs Cognac 11 3.96 3.90 40.00 0.00
+Martin Miller's Gin Gin 12 2.67 0.49 43.00 2.65
+Martini & Rossi Asti Spumanti Wine 10 5.91 0.80 8.00 0.00
+Martini & Rossi Vermouth Wine 9 1.67 0.38 17.33 1.00
+Masi Wines Wine 9 3.85 0.92 12.54 0.77
+Matanzas Creek Winery Wine 10 5.83 1.03 13.90 0.21
+Matusalem Rums Rum 14 2.01 0.66 40.00 0.00
+Max Flavored Alcoholic Beverage 4 0.92 0.15 12.00 0.00
+McCall's Vodkas Vodka 1 0.51 0.00 40.00 0.00
+McCormick Vodkas Vodka 23 0.65 0.14 40.00 0.00
+McCormick Long Island Iced Tea Flavored Alcoholic Beverage 8 0.77 0.16 37.50 0.00
+McCormick Whiskey Whiskey 11 0.67 0.13 40.00 0.00
+McCormick's Gin Gin 12 0.62 0.11 40.03 0.09
+McPherson Wines Wine 3 2.85 1.74 14.00 0.00
+McWilliam's Wines Wine 7 2.66 0.49 13.00 0.41
+Menage A Trois Wine Wine 11 2.80 0.49 13.91 0.30
+Merryvale Wines Wine 10 4.84 2.29 13.85 0.34
+Mezzacorona Wines Wine 10 2.27 0.45 12.40 0.57
+Michelob Beers Beer 29 1.56 0.44 4.99 0.06
+Michelob Amber Bock Beer 22 1.76 0.36 5.20 0.00
+Michelob Light Beers Beer 28 1.89 0.52 4.29 0.04
+Michelob Ultra Beer 33 1.88 0.31 4.19 0.02
+Mickey's Malt Liquor Beer 19 1.42 0.40 5.60 0.00
+Midori Liqueurs Cordials/Liqueurs 30 3.98 0.52 20.10 0.31
+Mike's Flavored Alcoholic Beverage 15 1.98 0.39 5.88 1.51
+Milagro Tequilas Tequila 31 2.65 0.46 40.00 0.00
+Miller Genuine Draft Beer 29 1.35 0.21 4.70 0.00
+Miller Chill Beer 19 2.00 0.36 4.20 0.00
+Miller High Life Beer 32 0.98 0.22 5.48 0.09
+Miller High Life Light Beer 22 1.23 0.30 4.23 0.09
+Miller Genuine Draft Light Beer 23 1.72 0.47 4.02 0.48
+Miller Lite Beer 31 1.49 0.24 4.20 0.00
+Milwaukee's Best Beer 21 1.17 0.36 4.33 0.07
+Milwaukee's Best Ice Beer 13 0.88 0.33 5.90 0.00
+Milwaukee's Best Light Beer 16 1.03 0.14 4.50 0.00
+Mionetto Wines Wine 9 4.33 1.14 10.33 1.30
+Mirassou Wines Wine 8 2.92 0.75 13.13 0.44
+Modelo Especial Beer 36 2.13 0.46 4.53 0.45
+Molson Canadian Beer 32 1.73 0.31 5.06 0.18
+Monarch Rum Rum 4 0.74 0.17 40.00 0.00
+Monte Antico Wine Wine 8 3.68 0.49 12.69 0.53
+Montebello Long Island Iced Tea Flavored Alcoholic Beverage 7 1.20 0.14 21.00 0.00
+Montego Bay Rum Rum 10 0.76 0.25 40.00 0.00
+Montes Wine Wine 7 3.14 0.51 13.54 0.11
+Montes Alpha Wine Wine 10 5.48 1.14 13.55 0.16
+Montevina Wines Wine 7 2.02 0.42 14.00 0.00
+Montgras Wines Wine 6 2.74 0.52 14.00 0.55
+Monticello Wines Wine 1 4.79 0.00 14.00 0.00
+Moon Mountain Vodka Vodka 10 1.97 0.18 40.00 0.00
+Moosehead Lager Beer 32 1.82 0.42 5.00 0.00
+Mount Gay Rums Rum 32 1.50 0.36 39.16 3.60
+Mouton-Cadet Wines Wine 6 2.77 0.27 11.75 0.61
+Mr. Boston Vodkas Vodka 7 0.54 0.04 44.29 5.35
+Mr. Boston Egg Nog Flavored Alcoholic Beverage 11 1.66 0.27 15.00 0.00
+Mr. Boston Liqueurs Cordials/Liqueurs 18 1.32 0.60 23.78 6.13
+Mr. Boston Rums Rum 10 0.63 0.06 40.00 0.00
+Murphy-Goode Wines Wine 11 3.16 0.86 13.88 0.67
+Myers Rums Rum 33 1.39 0.47 40.00 0.00
+Napa Cellars Wine Wine 6 4.17 0.94 13.98 0.04
+Natural Ice Beer 22 0.80 0.13 5.90 0.00
+Natural Light Beer 22 1.19 0.17 4.20 0.00
+Navan French Cognac Liqueur Cognac 5 3.43 0.88 40.00 0.00
+Negra Modelo Beer 38 2.00 0.31 5.46 0.19
+New Amsterdam Gin Gin 24 1.04 0.28 40.00 0.00
+New Belgium Beers Beer 25 2.16 0.49 5.54 0.96
+El Jimador New Mix Tequila Cocktails Flavored Alcoholic Beverage 7 4.20 2.98 5.00 0.00
+Newcastle Brown Ale Beer 41 2.32 0.45 4.69 0.07
+Newmans Own Wine Wine 4 3.11 0.69 14.00 0.00
+Newton Vineyard Wine Wine 8 6.43 3.91 13.88 0.10
+Night Train Express Fortified Wine 3 0.90 0.09 17.50 0.00
+Nikolai Vodkas Vodka 11 0.56 0.08 40.00 0.00
+Nikolai Gin Gin 3 0.58 0.08 40.00 0.00
+Nimbus Beer Beer 2 2.27 1.06 6.85 1.91
+Ninkasi Beer Beer 4 2.94 0.42 6.80 0.12
+Nobilo Wines Wine 10 3.48 0.32 13.10 0.21
+Northern Light Canadian Whiskey Whiskey 13 0.64 0.12 40.00 0.00
+Nuvo Sparkling Liqueur Cordials/Liqueurs 23 7.91 1.20 15.00 0.00
+Old Charter Straight Bourbon Whiskey Bourbon 6 1.29 0.30 40.00 0.00
+Old Crow Bourbon Whiskey Bourbon 15 0.75 0.14 40.00 0.00
+Old Forester Kentucky Straight Bourbon Whiskey Bourbon 11 1.52 0.74 43.36 2.38
+Old Milwaukee Beer 13 1.11 0.25 4.55 0.19
+Old Smuggler Blended Scotch Scotch 13 0.92 0.12 40.52 1.28
+Old Thompson Whiskey Whiskey 4 0.65 0.06 40.00 0.00
+Olde English Brand 800 Malt Liquor Beer 14 0.80 0.18 7.48 0.87
+Oliver Harvest Flavors Wine Wine 4 3.28 0.64 12.00 0.00
+OneHope Wines Wine 3 4.01 1.26 13.70 0.17
+Opulent Vodkas Vodka 3 2.15 0.99 40.00 0.00
+Otter Creek Beers Beer 12 2.44 0.68 5.73 2.29
+Oyster Bay Wines Wine 11 3.34 0.48 13.55 0.52
+P.I.N.K. Spirits Alcoholic Energy Drink 16 3.28 0.70 40.00 0.00
+Pabst Blue Ribbon (PBR) Beer 30 1.09 0.19 4.88 0.25
+Pacifico Beers Beer 31 2.17 0.30 4.75 0.11
+Pama Liqueurs Cordials/Liqueurs 31 5.47 0.76 17.00 0.00
+Paramount Rums Rum 3 0.67 0.18 51.83 20.50
+Partida Tequilas Tequila 20 4.43 0.97 40.00 0.00
+Patron Tequilas Tequila 31 4.14 0.61 40.00 0.00
+Patron Liqueurs Cordials/Liqueurs 28 2.35 0.46 38.57 2.67
+Paul Jaboulet Aine Wines Wine 8 2.80 0.58 14.00 0.00
+Paul Masson Grande Amber VS Brandy Brandy 19 0.97 0.14 40.00 0.00
+Paul Masson Crème Liqueurs Cordials/Liqueurs 3 2.86 0.81 17.00 0.00
+Paula's Texas Orange Liqueur Cordials/Liqueurs 3 2.29 0.15 40.00 0.00
+Pearl Vodkas Vodka 27 1.31 0.56 39.26 1.81
+Peels Flavored Malt Beverages Flavored Alcoholic Beverage 3 2.91 0.14 5.00 0.00
+Peller Estates Wine Wine 3 19.58 18.69 12.00 0.00
+Pendleton Blended Canadian Whiskey Whiskey 16 2.08 0.32 40.00 0.00
+Penfolds Wines Wine 11 2.39 0.33 13.91 0.30
+Peroni Lager Beer 39 2.53 0.53 4.73 0.11
+Perrin & Fils Wine Wine 6 2.79 0.22 14.00 0.00
+Pertinace Wines Wine 3 7.53 4.24 13.83 0.58
+Pete's Wicked Ales Beer 19 2.17 0.56 5.06 0.21
+Peter Lehmann Wines Wine 9 3.20 1.02 14.00 0.00
+Phillips Vodkas Vodka 3 0.64 0.15 40.00 0.00
+Phillips Union Whiskey Whiskey 8 1.99 0.70 39.38 1.77
+Piccini Wines Wine 6 2.78 0.64 12.83 0.26
+Picket Fence Wine Wine 5 4.26 0.97 14.40 0.22
+Pilsner Urquell Beer 38 2.61 0.48 4.40 0.00
+Pimm's Liqueur Cordials/Liqueurs 27 2.81 0.45 25.94 2.72
+Pinnacle Vodkas Vodka 31 1.02 0.27 39.68 2.56
+Pinnacle Gin Gin 13 1.00 0.22 40.00 0.00
+Planeta Wines Wine 9 5.40 2.51 13.44 0.63
+Plymouth Gin Gin 19 2.60 0.34 41.19 0.05
+Pocket Shot Vodkas Vodka 3 2.84 0.17 40.00 0.00
+Pocket Shot Gin Gin 3 2.69 0.22 40.00 0.00
+Pocket Shot Rum Rum 3 2.84 0.17 40.00 0.00
+Pocket Shot Tequila Tequila 3 2.84 0.17 40.00 0.00
+Pocket Shot Whiskey Whiskey 3 2.84 0.17 40.00 0.00
+Pomelo Wine Wine 8 3.59 0.97 13.00 0.00
+Popov Vodkas Vodka 27 0.67 0.15 39.63 1.33
+Port Royal Rum Rum 5 0.76 0.33 39.00 2.24
+Post Familie Vineyards Wine 3 2.79 0.29 12.00 0.00
+Potter's Long Island Iced Tea Flavored Alcoholic Beverage 3 0.69 0.05 40.00 0.00
+Prairie Vodkas Vodka 18 1.92 0.41 40.00 0.00
+Pravda Vodkas Vodka 26 2.91 0.88 40.00 0.00
+Presidente Beer Beer 7 1.68 0.21 6.00 0.00
+Presidente Brandy Brandy 16 1.34 0.24 40.00 0.00
+Prevail West Face Wine Wine 3 10.04 4.24 14.00 0.00
+Prichards Sweet Lucy Cordials/Liqueurs 10 2.88 0.52 35.00 0.00
+Provenance Wine Wine 8 5.94 1.73 14.38 0.23
+Pure Blue Vodka Vodka 3 2.04 0.21 40.00 0.00
+Purus Vodka Vodka 3 1.96 0.48 40.00 0.00
+Pyramid Breweries Beers Beer 24 2.37 0.94 5.49 0.74
+Pyrat Rums Rum 26 2.83 0.58 40.00 0.00
+Quickfire Wines Wine 4 5.62 0.42 13.30 0.60
+Quinta do Noval Wine Wine 9 4.32 1.28 18.83 1.64
+RU Vodkas Vodka 3 1.18 0.63 40.00 0.00
+Raspberry di Amore Cordials/Liqueurs 13 2.58 0.78 16.50 0.00
+Razzouk Raki Cordials/Liqueurs 12 1.63 0.18 50.00 0.00
+Red Bicyclette Wine Wine 7 2.87 0.64 13.00 0.00
+Red Bull Domestic Beer 4 1.61 0.94 8.50 0.00
+Red Stripe Beer 37 2.15 0.32 4.70 0.00
+Redrum Rum 9 1.99 0.21 35.00 0.00
+Redwood Creek Wines Wine 8 1.87 0.39 12.88 1.43
+Relax Wine Wine 8 4.10 0.57 9.31 0.53
+Remy Martin Cognacs Cognac 15 3.00 0.58 40.00 0.00
+Rene Barbier Wines Wine 5 1.50 0.31 14.00 0.00
+Ridgemont Reserve 1792 Small Batch Bourbon Bourbon 15 2.54 0.37 46.01 3.05
+Robert Mondavi Wines Wine 11 2.81 0.79 13.05 1.01
+Robert Oatley Vineyards Wines Wine 4 4.17 0.32 12.85 0.50
+Rocca Delle Macie Wine Wine 9 3.30 0.85 13.72 0.83
+Rodney Strong Wines Wine 10 3.73 2.42 13.86 0.47
+Rolling Rock Beer 35 1.61 0.37 4.53 0.09
+Ron Abuelo Rums Rum 10 1.95 0.69 40.00 0.00
+Ron Zacapa Rums Rum 21 4.39 1.32 40.00 0.00
+Ronrico Rums Rum 25 0.78 0.15 40.00 0.00
+Rosa Regale Wines Wine 8 10.30 2.05 7.00 0.00
+Rosemount Estates Wines Wine 9 2.55 0.60 12.89 0.86
+Rosenblum Cellars Wines Wine 9 2.86 0.72 13.29 1.05
+Rubicon Estate Wines Wine 9 15.93 10.17 15.02 0.46
+Rubinoff Vodkas Vodka 3 0.66 0.20 40.00 0.00
+Ruffino Wines Wine 10 3.00 1.51 12.45 0.83
+Rumple Minze Cordials/Liqueurs 30 1.83 0.69 50.00 0.00
+Russian Standard Vodkas Vodka 32 1.63 0.43 40.00 0.00
+Ruta 22 Wines Wine 3 3.44 0.42 14.50 0.00
+Rutherford Hill Wines Wine 9 4.92 1.53 13.53 0.63
+SV The Silk Vodkas Vodka 9 2.64 0.64 40.00 0.00
+Sagatiba Pura Rum Rum 6 2.16 0.18 38.33 0.82
+Sailor Jerry Spiced Navy Rums Rum 31 1.22 0.30 45.94 0.25
+Saint Arnold Beer 3 2.03 0.36 5.30 0.35
+Salvador's Margaritas and Cocktails Flavored Alcoholic Beverage 20 1.48 0.27 13.00 0.00
+Sambuca di Amore Cordials/Liqueurs 17 1.18 0.17 42.00 0.00
+Samuel Adams Beers Beer 41 2.08 0.47 5.35 1.33
+San Giuseppe Wines Wine 4 4.09 0.34 12.00 0.82
+Sandeman Wines Wine 11 3.14 0.90 18.05 3.43
+Santa Carolina Wine Wine 5 3.27 0.99 14.30 0.27
+Santa Cristina Wines Wine 9 3.46 0.76 12.78 0.36
+Santa Ema Wine Wine 9 3.77 1.50 13.16 0.34
+Santa Margherita Wines Wine 10 5.78 1.10 12.80 1.03
+Santa Rita Wines Wine 10 2.17 0.69 14.05 0.50
+Santi Wines Wine 7 4.01 0.74 12.71 0.76
+Santiago Beer 1 1.73 0.00 3.20 0.00
+Sapporo Beer 39 2.32 0.40 5.08 0.21
+Saranac Beers Beer 15 1.87 0.28 5.20 0.40
+Sasso al Poggio Wines Wine 3 6.94 1.33 14.00 0.00
+Sauza Tequilas Tequila 31 1.20 0.34 40.00 0.00
+Sauza Margaritas and Cocktails Flavored Alcoholic Beverage 23 2.22 0.49 9.95 0.00
+Schell Beers Beer 6 1.78 0.17 5.13 0.52
+Schlitz Beer 17 1.27 0.35 4.91 0.93
+Schmitt Sohne Wines Wine 6 3.46 0.37 8.92 0.49
+Scoresby Scotch Scotch 14 0.97 0.14 40.00 0.00
+Sea Mist Wines Wine 3 3.50 0.15 14.27 0.12
+Seafarer Rum Rum 3 0.67 0.10 40.00 0.00
+Seagram's Gins Gin 23 0.84 0.21 39.83 2.98
+Seagram's Flavored Malt Beverages Flavored Alcoholic Beverage 17 2.09 0.87 12.71 7.05
+Seagram's Rum Rum 12 0.97 0.29 39.58 1.44
+Seagram's Vodkas Vodka 28 0.91 0.17 38.93 2.09
+Seagram's Whiskey Whiskey 21 0.91 0.12 40.00 0.00
+Sebeka Wine Wine 6 2.23 0.31 13.50 0.00
+Sensi Wines Wine 3 2.60 0.12 13.63 0.64
+Seven Daughters Wine Wine 9 3.50 0.52 14.11 0.11
+Sheep Dip Scotch Scotch 7 4.64 1.56 40.00 0.00
+Shiner Beers Beer 31 2.28 0.51 4.61 0.40
+Shipyard Beers Beer 21 3.02 2.76 5.72 1.59
+Sierra Nevada Beers Beer 41 2.00 0.41 5.68 0.63
+Siku Vodkas Vodka 4 2.66 0.20 40.00 0.00
+Silver Oak Wines Wine 9 17.33 2.60 13.89 0.33
+Skinnygirl Margaritas Flavored Alcoholic Beverage 24 4.31 0.52 12.50 0.00
+Skol Vodkas Vodka 17 0.59 0.17 40.00 0.00
+Skyy Vodkas Vodka 33 1.23 0.38 40.00 1.25
+Sledgehammer Wines Wine 4 4.08 0.61 14.40 0.46
+Smirnoff Vodkas Vodka 33 1.01 0.23 39.55 2.61
+Smirnoff Malt Beverages Flavored Alcoholic Beverage 30 2.38 0.50 14.26 2.42
+Smirnoff Raw Tea Malt Beverage Flavored Alcoholic Beverage 5 2.63 0.63 5.00 0.00
+Smith Woodhouse Port Wine 7 4.90 2.29 19.57 0.53
+Smithwick's Beer 34 2.74 2.23 4.87 0.22
+Smoking Loon Wines Wine 10 2.41 0.63 13.80 0.26
+Smuttynose Beer 12 2.02 0.30 6.48 0.76
+Sobieski Vodkas Vodka 30 0.91 0.21 39.83 0.91
+Sol Cerveza Beer 21 2.12 0.38 4.46 0.12
+Southern Comfort Cordials/Liqueurs 29 1.50 0.42 42.05 9.65
+Southern Comfort Cocktails Flavored Alcoholic Beverage 20 2.06 0.31 15.00 0.00
+Souverain Wines Wine 8 3.63 0.46 13.61 1.06
+Sparks Malt Beverages Flavored Alcoholic Beverage 8 1.34 0.34 7.13 0.83
+Speyside Scotch Scotch 4 3.16 0.55 41.50 1.73
+St Supery Wines Wine 8 4.72 1.50 14.01 0.24
+St-Germain Liqueurs Cordials/Liqueurs 26 7.02 0.68 20.00 0.00
+St. Ides Malt Liquor Beer 7 0.79 0.24 8.20 0.00
+St. Pauli Girl Lager Beer 36 2.00 0.35 4.84 0.05
+Starbucks Coffee Liqueurs Cordials/Liqueurs 9 3.92 1.34 18.33 2.50
+Steel Reserve Malt Liquor Beer 20 0.76 0.23 7.89 0.65
+Steinlager Beer 18 2.47 0.46 5.00 0.00
+Stella Artois Beer 44 2.20 0.52 5.20 0.00
+Sterling Wines Wine 10 2.85 0.60 13.70 0.26
+Stirrings Liqueurs Cordials/Liqueurs 17 2.02 0.53 24.88 4.34
+Stolichnaya Vodkas Vodka 34 1.64 0.28 41.03 3.38
+Stone Beers Beer 29 2.40 0.60 6.56 0.84
+Stonecap Wines Wine 3 2.64 0.55 12.47 0.81
+Stonestreet Wines Wine 8 6.79 3.36 14.05 0.09
+Straub Beer 3 1.65 0.49 3.87 0.59
+Summit Brewing Company Beers Beer 11 1.94 0.57 5.60 0.88
+Suntory Whiskey Whiskey 7 4.51 1.24 42.57 1.13
+Sutter Home Wines Wine 11 2.33 3.27 13.36 0.81
+Svedka Vodkas Vodka 33 1.05 0.23 39.85 0.87
+Sweet Carolina Vodkas Vodka 24 1.44 0.37 35.42 1.41
+Sweet Magnolia Cocktails Flavored Alcoholic Beverage 5 2.41 0.30 9.95 0.00
+Sylk Cream Liqueurs Cordials/Liqueurs 3 5.28 3.18 17.00 0.00
+T.G.I. Friday's Cocktails Flavored Alcoholic Beverage 27 1.96 0.37 12.87 0.91
+Taaka Vodkas Vodka 10 0.57 0.14 40.00 0.00
+Tabor Hill Winery Wines Wine 3 3.86 0.74 12.00 0.00
+Talisker Scotch Scotch 13 5.03 0.54 44.88 2.17
+Tanqueray Gins Gin 24 1.44 0.26 46.77 1.69
+Tanqueray Sterling Vodkas Vodka 25 1.48 0.38 40.30 1.48
+Tapena Wines Wine 7 2.64 0.32 13.86 0.38
+Tarantula Cocktails Flavored Alcoholic Beverage 10 3.86 1.40 5.50 0.00
+Tarantula Liqueurs Cordials/Liqueurs 7 2.03 0.21 35.71 1.89
+Tarantula Tequilas Tequila 19 1.88 0.47 40.00 0.00
+Tasca d'Almerita Wines Wine 4 3.83 1.05 12.50 0.71
+Taste the Sun Wines Wine 1 3.50 0.00 13.50 0.00
+Taylor Fladgate Port Wine 10 5.31 6.53 20.00 0.00
+Tecate Beer 31 1.85 0.44 4.50 0.01
+Tecate Light Beer 7 1.97 0.34 3.70 0.00
+Tekirdag Raki Cordials/Liqueurs 3 1.78 0.17 45.00 0.00
+Ten High Bourbon Whiskey Bourbon 14 0.75 0.13 40.00 0.00
+Tenute Silvio Nardi Wines Wine 3 5.36 1.24 13.83 0.58
+Terlato Vineyards Wine Wine 5 5.18 3.98 14.00 0.00
+Terra d'Oro Vineyards Wine Wine 8 4.44 1.88 13.81 2.27
+Terrazas Wines Wine 10 2.85 0.44 13.52 0.04
+Terredora di Paolo Wines Wine 6 5.46 1.64 12.67 0.41
+Thatchers Cordials/Liqueurs 14 5.11 0.72 15.00 0.00
+The Club Cocktails Flavored Alcoholic Beverage 14 1.76 0.59 16.93 3.12
+The Crossings Wines Wine 7 3.83 0.65 13.86 0.38
+Three Olives Vodkas Vodka 34 1.42 0.47 39.41 1.64
+Thunderbird Fortified Wine 8 1.04 0.26 15.24 2.34
+Tia Maria Liqueurs Cordials/Liqueurs 27 3.47 0.53 26.52 0.10
+Tilt Flavored Alcoholic Beverage 4 0.52 0.16 12.00 0.00
+Tito's Handmade Vodkas Vodka 29 1.61 0.46 40.00 0.00
+Tomasello Winery Wines Wine 5 4.75 2.15 10.90 0.65
+Tommasi Wines Wine 5 6.86 4.82 13.10 1.14
+Tommy Bahama Rums Rum 15 1.93 0.80 40.00 0.00
+Torres Wines Wine 8 2.83 0.65 13.25 1.13
+Toscolo Wine Wine 3 3.28 0.61 13.00 0.00
+Trader Vic's Cocktails Flavored Alcoholic Beverage 6 2.21 0.60 9.95 0.00
+Trader Vic's Rum Rum 13 0.89 0.20 43.92 14.20
+Trapiche Wines Wine 8 2.40 0.40 13.38 0.23
+Tres Leches Triple Cream Liqueur Cordials/Liqueurs 14 4.73 0.75 17.00 0.00
+Trinchero Wines Wine 7 4.44 3.17 13.71 0.81
+Trivento Wine Wine 7 2.73 0.30 13.50 0.00
+Trump Vodkas Vodka 7 2.78 0.77 40.00 0.00
+Tullamore Dew Irish Whiskey Whiskey 19 2.13 0.33 40.00 0.00
+Turi Vodkas Vodka 8 2.66 0.55 40.00 0.00
+Turning Leaf Wines Wine 9 1.70 0.58 13.00 1.32
+Twin Pomegranates Wines Wine 1 3.44 0.00 12.60 0.00
+Twisted Tea Hard Iced Teas Flavored Alcoholic Beverage 11 2.12 0.37 5.00 0.00
+UV Vodkas Vodka 24 0.97 0.32 38.33 4.08
+UV Cocktails Flavored Alcoholic Beverage 12 2.08 0.33 12.50 0.00
+Ultimat Vodkas Vodka 27 4.05 0.65 40.00 0.00
+V2 Vodka with Caffeine Alcoholic Energy Drink 3 2.66 0.81 40.00 0.00
+Vallformosa Wine Wine 1 5.14 0.00 11.50 0.00
+Ventana Wines Wine 3 2.11 0.82 13.63 0.23
+Ventisquero Wines Wine 3 4.00 0.90 13.67 0.29
+Vermeer Dutch Chocolate Cream Liqueur Cordials/Liqueurs 7 5.37 0.66 17.00 0.00
+Vicente Gandia Wine Wine 3 2.73 0.66 12.50 0.00
+Vicious Vodka with Caffeine Alcoholic Energy Drink 4 2.88 0.22 40.00 0.00
+Victoria Cerveza Beer 6 2.81 0.31 4.00 0.00
+Villa Magna Wines Wine 2 2.86 0.82 13.00 0.00
+Villa Rosa Gavi di Gavi Wine 3 5.27 0.66 12.00 0.00
+Villa Russiz Wines Wine 3 7.32 0.26 14.83 0.29
+Villa Sorono Wines Wine 3 2.19 0.68 12.00 0.00
+Vina San Pedro Wine Wine 3 2.83 1.84 12.87 0.81
+Vina Zaco Wines Wine 5 3.94 0.21 13.50 0.00
+Vincent Van Gogh Vodkas Vodka 29 2.38 0.71 38.97 2.06
+Voga Italia Wines Wine 6 3.27 0.55 12.17 0.41
+Voodoo Spiced Rum Rum 5 1.92 0.18 35.00 0.00
+Vox Vodkas Vodka 26 2.28 0.86 40.00 0.00
+W&J Graham's Wine Wine 5 3.77 0.46 19.80 0.45
+Warres Wines Wine 8 4.49 2.48 18.94 2.62
+Warsteiner Beer Beer 34 2.23 0.54 4.93 0.31
+Waterbrook Wine Wine 6 3.08 0.31 12.90 1.18
+Whipped Lightning Alcoholic Whipped Cream 4 4.32 0.54 18.13 0.14
+White Diamond Vodkas Vodka 1 1.18 0.00 40.00 0.00
+Whitehaven Wine Wine 8 4.87 0.69 13.00 0.00
+Whitetail Caramel Flavored Whiskey Whiskey 11 1.97 0.23 40.00 0.00
+Widmer Brothers Beers Beer 24 2.19 0.43 5.12 0.65
+Wiederkehr Wine Cellars Wine 3 5.34 4.03 11.00 0.00
+Wild Geese Irish Whiskey Whiskey 3 2.81 1.58 41.00 1.73
+Wild Irish Rose Fortified Wine 9 0.92 0.20 14.36 1.37
+Wild Turkey Bourbon Whiskey Bourbon 15 1.46 0.19 49.10 3.69
+Wild Turkey American Honey Liqueur Cordials/Liqueurs 29 2.31 0.34 35.12 1.42
+Wild Vines Wines Wine 5 2.60 0.41 6.00 0.00
+Williamsburg Winery Wines Wine 3 2.89 0.74 12.00 0.00
+Windsor Canadian Whiskey Whiskey 15 0.68 0.12 40.00 0.00
+Wolf Blass Wine Wine 7 2.84 0.75 13.86 0.38
+Woodbridge Wines Wine 9 1.61 0.43 13.33 1.32
+Woodford Reserve Bourbon Whiskey Bourbon 15 2.67 0.23 45.15 0.09
+X Rated Vodkas Vodka 9 2.59 0.44 40.00 0.00
+X-Rated Fusion Liqueur Cordials/Liqueurs 26 5.99 0.71 17.00 0.00
+XZO Vodka Alcoholic Energy Drink 1 1.97 0.00 40.00 0.00
+Yalumba Wines Wine 10 3.30 1.14 13.70 2.06
+Yarden Wines Wine 8 5.28 3.10 13.45 0.61
+Yellow Tail Wines Wine 10 1.76 0.29 13.05 0.50
+Yeni Raki Cordials/Liqueurs 9 1.80 0.30 44.11 1.05
+Ypioca Cachaca Rum 8 1.65 0.33 39.25 0.46
+Yuengling Beers Beer 8 1.30 0.16 4.40 0.00
+Yuengling Light Beers Beer 7 1.73 0.30 3.74 0.15
+Yukon Jack Canadian Whiskey Whiskey 9 1.20 0.22 50.00 0.00
+Yukon Jack Cordials Cordials/Liqueurs 24 1.17 0.30 50.00 0.00
+Zaya Rums Rum 22 3.49 0.65 40.00 0.00
+Zelko Vodkas Vodka 1 0.51 0.00 40.00 0.00
+Zima Malt Beverages Flavored Alcoholic Beverage 3 1.49 0.49 5.53 0.64
+Zonin Wine Wine 8 2.24 1.16 12.25 0.65
+Zwack Liqueur Cordials/Liqueurs 20 2.16 0.43 40.00 0.00

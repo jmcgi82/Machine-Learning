@@ -1,0 +1,1 @@
+('Rum', 'Flavored Alcohol Beverages','Wine','Whiskey','Bourbon','Codka','Cordials/Liqueurs','Beer','Alcoholic Whipped Cream', 'Tequila','Gin', 'Scotch', Brandy')
